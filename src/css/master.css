@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: main;
+    src: url('../font/DIN\ Alternate.ttf');
+}
+
+@font-face {
+    font-family: bold;
+    src: url('../font/DIN\ Alternate\ Bold.ttf');
+}
+
+@font-face {
+    font-family: outline;
+    src: url('../font/De\ Luxe\ Hollow.ttf');
+}
+
+* {
+    scroll-behavior: smooth;
+}
