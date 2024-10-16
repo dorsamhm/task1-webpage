@@ -1,4 +1,4 @@
 # Webpage
 
 
-- [Demo Project](https://dorsamhm.github.io/task1-webpage/)
+- [Demo](https://dorsamhm.github.io/task1-webpage/)
